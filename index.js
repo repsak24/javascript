@@ -41,5 +41,5 @@
                         this.lastName = parts[1];
                 }
         };
-        person.fullName = "Henk Dikbil"
+        person.fullName = "Henk Dikbil2"
         console.log(person.fullName); 
